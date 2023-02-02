@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/* Set background color for the body */
 body {
     background-color: #d9dcd6;
 }
-
+/* Header section styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* H1 styles in header section */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* SEO text color in h1 */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Styles for the div in the header section */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +31,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Styles for the unordered list in the div in the header section */
 .header div ul {
     list-style-type: none;
 }
-
+/* Styles for the list items in the unordered list in the div in the header section */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Styles for the links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Styles for the paragraphs */
 p {
     font-size: 16px;
 }
-
+/* Hero section styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Styles for floating left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Styles for floating right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Styles for the content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Styles for the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Styles for the footer section */
 .footer {
     padding: 30px;
     clear: both;
