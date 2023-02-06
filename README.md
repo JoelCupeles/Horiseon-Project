@@ -21,7 +21,7 @@ This project is licensed under the MIT License.
 1. Improved accessibility standards
 2. Optimized site for search engines
 
-# Link
+## Link
 Checkout the Horiseon Website (https://joelcupeles.github.io/Horiseon-Project/#online-reputation-management)
 
 ![HoriseonWebsiteScreenshot](https://raw.githubusercontent.com/JoelCupeles/Horiseon-Project/main/Assets/Horiseon%20Updated.png)
