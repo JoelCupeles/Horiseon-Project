@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
+<!-- Changed the title for a more descriptiv one -->
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -10,9 +11,9 @@
 <!-- Replaced non-semantic <div> with other semantic options  -->
 
 <body>
-    <header class="header">
+    <header class="header" role="banner">
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+        <nav>
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -24,19 +25,20 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
+        </nav>
     </header>
+    <!-- Add alternative text to images for accessibility -->
     <div class="hero"></div>
     <main class="content">
         <section class="search-engine-optimization">
-            <img src="./assets/images/search-engine-optimization.jpg" alt="Illustration of a notebook on top of a table, showing the different topics that resolve around SEO as backlink, link building, social media, mobile compability, headings, and contents. This words are howcasing the concept of search engine optimization (SEO) to increase online visibility and attract potential customers" class="float-left" />
+            <img src="./assets/images/search-engine-optimization.jpg" alt="Notebook on a table, displaying the concepts of backlink, link building, social media, mobile compatibility, headings, and content for search engine optimization (SEO). The aim is to improve online visibility and attract customers." class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
         </section>
         <section id="online-reputation-management" class="online-reputation-management">
-            <img src="./assets/images/online-reputation-management.jpg" alt="Image of a computer screen displaying a bar graph showing the progress of a company's online reputation management efforts" class="float-right" />
+            <img src="./assets/images/online-reputation-management.jpg" alt="Bar graph showing progress of online reputation management efforts" class="float-right" />
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
@@ -73,8 +75,9 @@
             </p>
         </aside>
     </main>
+    <!-- Changed header attributes to follow a sequential order -->
     <footer class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
+        <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
