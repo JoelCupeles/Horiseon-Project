@@ -22,6 +22,6 @@ This project is licensed under the MIT License.
 2. Optimized site for search engines
 
 # Link
-Checkout the Horiseon Website (file:///C:/Users/joelc/bootcamp/challenge01/Develop/index.html)
+[Checkout the Horiseon Website](file:///C:/Users/joelc/bootcamp/challenge01/Develop/index.html)
 
 ![HoriseonWebsiteScreenshot](https://raw.githubusercontent.com/JoelCupeles/Horiseon-Project/main/Assets/Horiseon%20Updated.png)
