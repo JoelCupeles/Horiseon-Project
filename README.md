@@ -5,7 +5,7 @@
 This project is focused on refactoring existing code to meet accessibility standards, in order to optimize the site for search engines and ensure that people with disabilities can access the site using assistive technologies. The project is being undertaken by a marketing agency, and is being guided by a small list of specific criteria for accessibility.
 
 
-# Installation
+## Installation
 This project does not require any installation.
 
 ## Usage
