@@ -23,4 +23,4 @@ This project is licensed under the MIT License.
 
 # Link
 
-![Horiseon website screenshot](C:\Users\joelc\bootcamp\challenge01\Assets\Horiseon Updated.png)
+![Horiseonwebsitescreenshot](C:\Users\joelc\bootcamp\challenge01\Assets\Horiseon Updated.png)
