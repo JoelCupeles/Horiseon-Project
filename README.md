@@ -21,3 +21,6 @@ This project is licensed under the MIT License.
 1. Improved accessibility standards
 2. Optimized site for search engines
 
+# Link
+
+![Horiseon website screenshot](C:\Users\joelc\bootcamp\challenge01\Assets\Horiseon Updated.png)
