@@ -17,11 +17,11 @@ The guidelines for this project were developed by the marketing agency's tech le
 ## License
 This project is licensed under the MIT License.
 
-# Features
+## Features
 1. Improved accessibility standards
 2. Optimized site for search engines
 
-# Link
+## Link
 [Checkout the Horiseon Website](file:///C:/Users/joelc/bootcamp/challenge01/Develop/index.html)
 
 ![HoriseonWebsiteScreenshot](https://raw.githubusercontent.com/JoelCupeles/Horiseon-Project/main/Assets/Horiseon%20Updated.png)
